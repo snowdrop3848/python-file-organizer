@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+# Local files used for manual organizer exercises
+/test_files/
+
 __pycache__/
 *.py[codz]
 *$py.class
